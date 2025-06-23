@@ -1,6 +1,6 @@
 # 🛒 Ecommerce Spring Boot Application
 
-A full-featured eCommerce backend built with **Spring Boot**, supporting product management, user authentication, order processing, and more. This project serves as the backend REST API for an online store.
+A eCommerce backend built with **Spring Boot**, supporting user authentication, order processing, and more. This project serves as the backend REST API for an online store.
 
 ---
 

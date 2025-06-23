@@ -34,3 +34,11 @@ A full-featured eCommerce backend built with **Spring Boot**, supporting product
 ```bash
 git clone https://github.com/Evangel2000/ecommerce-springboot.git
 cd ecommerce-springboot
+```
+
+---
+
+## ▶️ Run the APP
+```bash
+./mvnw spring-boot:run
+```
